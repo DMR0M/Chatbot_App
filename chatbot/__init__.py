@@ -1,4 +1,4 @@
 # Created package files using script
-from chatbot import main
+from chatbot import app_gui
 
-main.main()
+app_gui.main()
